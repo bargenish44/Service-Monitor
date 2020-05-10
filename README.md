@@ -2,16 +2,16 @@
 
 Cross platform service monitor 
 
-### How to run?
+### How to run
 
 Run only the run.py!!
 
-### About me?
+### About me
 
-The tool have 2 conditions:
+The tool has 2 conditions:
 
-Monitor modes- for x time that the user choose the machine check which services stop running or start running compare to the last check.
+Monitor modes- for x time that the user chooses the machine checks which services stop running or start running compare to the last check.
 
-Manual mode- the user insert 2 dates that he want to compare between. the tool print which service no longer run or start running.
+Manual mode- the user inserts 2 dates that he want to compare between. the tool print which service no longer run or start running.
 
-The tool is cross platform that means it works on Windows and Linux.
+The tool is cross-platform that means it works on Windows and Linux.
